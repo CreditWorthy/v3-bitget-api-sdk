@@ -1,4 +1,4 @@
-module github.com/CreditWorthy/v3-bitget-api-sdk/bitget-golang-sdk-api
+module bitget
 
 go 1.17
 
